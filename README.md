@@ -1,3 +1,5 @@
+
+
 # App Web — Laravel Dashboard
 
 A Laravel 12 web application with user authentication and an SB Admin 2 dashboard.
@@ -55,6 +57,14 @@ A Laravel 12 web application with user authentication and an SB Admin 2 dashboar
    php artisan serve
    ```
    The application will be available at `http://localhost:8000`.
+
+## Screenshots
+
+### Login Page
+![Login Page](public/img/screenshots/login.png)
+
+### Dashboard Page
+![Dashboard](public/img/screenshots/dashboard.png)
 
 ## Sample Login Credentials
 
