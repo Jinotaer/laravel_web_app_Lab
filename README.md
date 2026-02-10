@@ -70,6 +70,6 @@ A Laravel 12 web application with user authentication and an SB Admin 2 dashboar
 
 | Name       | Email               | Password   |
 |------------|---------------------|------------|
-| Admin User | admin@example.com   | password   |
+| Admin User | kpurdy@example.net   | password   |
 
 > The seeder also creates 9 additional random users, all with the password `password`.
